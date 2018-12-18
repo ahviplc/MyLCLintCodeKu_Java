@@ -1,10 +1,10 @@
 package com.lc.en;
 
-public class a_plus_b_problem {
+public class a_plus_b_problem_1 {
 
     // java
 
-    /* A + B 问题-给出两个整数 a 和 b , 求他们的和。
+    /* 1.A + B 问题-给出两个整数 a 和 b , 求他们的和。
      * @param : An integer
      * @param : An integer
      * @return: The sum of a and b

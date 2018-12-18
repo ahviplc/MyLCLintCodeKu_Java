@@ -7,11 +7,11 @@ import java.math.BigDecimal;
  *
  * long类型的输出 n只能支持到20，在20-65的数值会得到错误的输出值可能正数可能负数，36及以上输出0.
  */
-public class trailingZeros_Solution {
+public class trailingZeros_Solution_2 {
 
     // java
 
-    /* 尾部的零-设计一个算法，计算出n阶乘中尾部零的个数
+    /* 2.尾部的零-设计一个算法，计算出n阶乘中尾部零的个数
      * @param n: A long integer
      * @return: An integer, denote the number of trailing zeros in n!
      */
